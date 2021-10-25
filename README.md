@@ -28,11 +28,11 @@ Os comandos SQL podem ser divididos em quatro grupos principais:
 #DDL - DATA DEFINITION LANGUAGE
 -----------------------------------------------------------------------------------------
 | Comando | Descrição									                                                  |
-|         |                                                                             |
+|---------|-----------------------------------------------------------------------------|
 | CREATE  | Cria uma nova tabela, visão ou outro objeto					                        |
-|         |                                                                             |
+|---------|-----------------------------------------------------------------------------|
 | ALTER   | Modifica um objeto existente no BD, como uma tabela por exemplo	 	          |     
-|         |                                                                             |
+|---------|-----------------------------------------------------------------------------|
 | DROP    | exclui uma tabela inteira, uma exibição de uma tabela ou outro objeto no BD.|
 -----------------------------------------------------------------------------------------
 
