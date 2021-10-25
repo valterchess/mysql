@@ -64,7 +64,7 @@ Os comandos DCL são comandos de controle de acesso aos outros comandos e dados 
 
 #DQL - DATA QUERY LANGUAGE
 ----------------------------------------------------------------------------------------------	 
-| Comando | Descrição									          |                                            |
+| Comando | Descrição									                                                       |
 |---------|----------------------------------------------------------------------------------|
 | SELECT  | obtem registros especificados de uma ou mais tabélas do banco de dados.(consulta)|
 ----------------------------------------------------------------------------------------------
