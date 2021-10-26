@@ -11,7 +11,7 @@ create table tb_categoria(
 
 create table tb_fruta(
 	id bigint auto_increment,
-    preco double(5,2) not null,
+    preco decimal(5,2) not null,
     nome varchar(60) not null,
     -- poderia haver uma tabela pais
     pais varchar(60),

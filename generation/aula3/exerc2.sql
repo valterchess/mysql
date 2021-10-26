@@ -10,7 +10,7 @@ create table tb_categoria(
 
 create table tb_pizza(
 	id bigint auto_increment,
-    preco double not null,
+    preco decimal(8,2) not null,
     sabor varchar(60) not null,
     tipo_de_massa varchar(60) not null,
     categoria_id bigint,

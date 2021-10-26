@@ -11,7 +11,7 @@ create table tb_categoria(
 
 create table tb_produto(
 	id bigint auto_increment,
-    preco double(8,2) not null,
+    preco decimal(8,2) not null,
     nome varchar(60) not null,
     -- poderia haver uma tabela marca
     marca varchar(60),

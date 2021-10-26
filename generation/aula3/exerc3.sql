@@ -10,7 +10,7 @@ create table tb_categoria(
 
 create table tb_produtos(
 	id bigint auto_increment,
-    preco double (8,2) not null,
+    preco decimal (8,2) not null,
     dt_validade date not null,
     marca varchar (60) not null default "neo quimica",
     categoria_id bigint,
