@@ -38,13 +38,13 @@ Os comandos SQL podem ser divididos em quatro grupos principais:
 
 os comandos DDL são os comandos de infraestrutura, são os comandos que permitem manipular a estrutura do BD: tabelas colunas e outros objetos.
 
-#DDL - DATA MANIPULATION LANGUAGE
+#DML - DATA MANIPULATION LANGUAGE
 -----------------------------------------------------------------------------------------
 | Comando | Descrição									                                                  |
 |---------|-----------------------------------------------------------------------------|
-| INSERT  | Cria um novo registro (linha) na tABELA					                            |
+| INSERT  | Cria um novo registro (linha) na TABELA					                            |
 |---------|-----------------------------------------------------------------------------|
-| ALTER   | Modifica ou manipula regsitros	 	         				                          |     
+| ALTER   | Modifica ou manipula registros	 	         				                          |     
 |---------|-----------------------------------------------------------------------------|
 | DROP    | exclui um registro inteiro						                                      |
 -----------------------------------------------------------------------------------------
@@ -69,4 +69,4 @@ Os comandos DCL são comandos de controle de acesso aos outros comandos e dados 
 | SELECT  | obtem registros especificados de uma ou mais tabélas do banco de dados.(consulta)|
 ----------------------------------------------------------------------------------------------
 
-Os comandos SQL, neste caso o SELECT, unido a outros sub-comandos permite acesso e consultas nas tabelas, que retornam dados especificos.
+Os comandos DQL, neste caso o SELECT, unido a outros sub-comandos permite acesso e consultas nas tabelas, que retornam dados especificos.
